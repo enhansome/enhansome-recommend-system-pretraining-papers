@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Netflix: [link]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T06:39:28Z",
+            "owner": "HKUDS",
+            "repo": "LLMRec",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Content-Driven Micro-Video Recommendation Dataset at Scale [link]",
+          "description": ", arxiv 2023,[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-19T13:25:17Z",
+            "owner": "westlake-repl",
+            "repo": "MicroLens",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PixelRec: A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [link]",
+          "description": ",arxiv 2023,[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-19T11:49:38Z",
+            "owner": "westlake-repl",
+            "repo": "PixelRec",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ninerec: A benchmark dataset suite for evaluating transferable recommendation [link]",
+          "description": ", arxiv 2023,[paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-06T11:46:10Z",
+            "owner": "westlake-repl",
+            "repo": "NineRec",
+            "stars": 111
+          }
+        }
+      ],
+      "title": "Dataset"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-02T01:12:02Z",
+            "owner": "westlake-repl",
+            "repo": "IDvs.MoRec",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T02:30:19Z",
+            "owner": "westlake-repl",
+            "repo": "Adapter4Rec",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Empirical Study"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [paper]",
+          "description": ", [code], [blog in Chinese]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-10T06:39:28Z",
+            "owner": "HKUDS",
+            "repo": "LLMRec",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-14T06:17:29Z",
+            "owner": "rainym00d",
+            "repo": "LLM4RS",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-25T21:30:05Z",
+            "owner": "Yueeeeeeee",
+            "repo": "LlamaRec",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[paper]",
+          "description": "[code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-06-15T13:10:33Z",
+            "owner": "jizhi-zhang",
+            "repo": "FaiRLLM",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, paper",
+          "description": ", code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-04T13:57:57Z",
+            "owner": "demoleiwang",
+            "repo": "LLM4Vis",
+            "stars": 29
+          }
+        }
+      ],
+      "title": "Large Language Models for Recommendation"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:55:22.612Z",
+    "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
+    "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
+    "enhanced_repository": "enhansome/enhansome-recommend-system-pretraining-papers",
+    "enhanced_repository_description": null,
+    "title": "Awesome A Paper List for Recommend-system PreTrained Models with stars"
+  }
+}
