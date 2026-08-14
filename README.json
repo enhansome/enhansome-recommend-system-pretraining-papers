@@ -124,7 +124,7 @@
             "last_commit": "2024-05-14T06:17:29Z",
             "owner": "rainym00d",
             "repo": "LLM4RS",
-            "stars": 177
+            "stars": 176
           }
         },
         {
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T21:55:22.612Z",
+    "last_updated": "2026-08-14T21:32:56.152Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
     "enhanced_repository": "enhansome/enhansome-recommend-system-pretraining-papers",
