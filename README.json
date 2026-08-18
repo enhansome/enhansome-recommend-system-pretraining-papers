@@ -42,7 +42,7 @@
             "last_commit": "2025-03-19T11:49:38Z",
             "owner": "westlake-repl",
             "repo": "PixelRec",
-            "stars": 188
+            "stars": 189
           }
         },
         {
@@ -174,7 +174,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:33:12.760Z",
+    "last_updated": "2026-08-18T21:31:30.964Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
     "enhanced_repository": "enhansome/enhansome-recommend-system-pretraining-papers",
