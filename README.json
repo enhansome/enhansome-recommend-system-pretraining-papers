@@ -1,181 +1,306 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Netflix: [link]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Netflix: [link]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708601315,
+                "language": "Python",
+                "last_commit": "2024-06-10T06:39:28Z",
+                "owner": "HKUDS",
+                "repo": "LLMRec",
+                "stars": 537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "A Content-Driven Micro-Video Recommendation Dataset at Scale [link]",
+              "description": ", arxiv 2023,[paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 694946338,
+                "language": "Python",
+                "last_commit": "2026-03-19T13:25:17Z",
+                "owner": "westlake-repl",
+                "repo": "MicroLens",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PixelRec: A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [link]",
+              "description": ",arxiv 2023,[paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 692620761,
+                "language": "Python",
+                "last_commit": "2025-03-19T11:49:38Z",
+                "owner": "westlake-repl",
+                "repo": "PixelRec",
+                "stars": 189
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ninerec: A benchmark dataset suite for evaluating transferable recommendation [link]",
+              "description": ", arxiv 2023,[paper]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 693014779,
+                "language": "Python",
+                "last_commit": "2024-10-06T11:46:10Z",
+                "owner": "westlake-repl",
+                "repo": "NineRec",
+                "stars": 112
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-10T06:39:28Z",
-            "owner": "HKUDS",
-            "repo": "LLMRec",
-            "stars": 537
-          }
+          "node_type": "group",
+          "title": "Dataset"
         },
         {
-          "node_type": "item",
-          "title": "A Content-Driven Micro-Video Recommendation Dataset at Scale [link]",
-          "description": ", arxiv 2023,[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-19T13:25:17Z",
-            "owner": "westlake-repl",
-            "repo": "MicroLens",
-            "stars": 292
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627481378,
+                "language": "Python",
+                "last_commit": "2025-02-02T01:12:02Z",
+                "owner": "westlake-repl",
+                "repo": "IDvs.MoRec",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675658574,
+                "language": "Python",
+                "last_commit": "2024-03-21T02:30:19Z",
+                "owner": "westlake-repl",
+                "repo": "Adapter4Rec",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Empirical Study"
         },
         {
-          "node_type": "item",
-          "title": "PixelRec: A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [link]",
-          "description": ",arxiv 2023,[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-03-19T11:49:38Z",
-            "owner": "westlake-repl",
-            "repo": "PixelRec",
-            "stars": 189
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021 , [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358017583,
+                "language": "Python",
+                "last_commit": "2026-07-31T03:26:30Z",
+                "owner": "NVIDIA-Merlin",
+                "repo": "Transformers4Rec",
+                "stars": 1280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 , [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203718058,
+                "language": "Python",
+                "last_commit": "2020-02-07T04:04:58Z",
+                "owner": "FeiSun",
+                "repo": "BERT4Rec",
+                "stars": 734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization , CIKM-2020 , [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286387346,
+                "language": "Python",
+                "last_commit": "2020-11-22T01:34:45Z",
+                "owner": "RUCAIBox",
+                "repo": "CIKM2020-S3Rec",
+                "stars": 267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 497198670,
+                "language": "Python",
+                "last_commit": "2023-11-29T09:37:26Z",
+                "owner": "RUCAIBox",
+                "repo": "UniSRec",
+                "stars": 225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599473000,
+                "language": "Python",
+                "last_commit": "2023-03-27T15:18:01Z",
+                "owner": "RUCAIBox",
+                "repo": "VQ-Rec",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 708764496,
+                "language": "Python",
+                "last_commit": "2024-03-20T13:46:48Z",
+                "owner": "gimpong",
+                "repo": "MM23-MISSRec",
+                "stars": 64
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sequential / Session-Based Recommendation"
         },
         {
-          "node_type": "item",
-          "title": "Ninerec: A benchmark dataset suite for evaluating transferable recommendation [link]",
-          "description": ", arxiv 2023,[paper]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-06T11:46:10Z",
-            "owner": "westlake-repl",
-            "repo": "NineRec",
-            "stars": 111
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [paper]",
+                  "description": ", [code], [blog in Chinese]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 708601315,
+                    "language": "Python",
+                    "last_commit": "2024-06-10T06:39:28Z",
+                    "owner": "HKUDS",
+                    "repo": "LLMRec",
+                    "stars": 537
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 605570569,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2024-05-14T06:17:29Z",
+                    "owner": "rainym00d",
+                    "repo": "LLM4RS",
+                    "stars": 176
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 709009462,
+                    "language": "Python",
+                    "last_commit": "2024-04-25T21:30:05Z",
+                    "owner": "Yueeeeeeee",
+                    "repo": "LlamaRec",
+                    "stars": 173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[paper]",
+                  "description": "[code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 639864416,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2023-06-15T13:10:33Z",
+                    "owner": "jizhi-zhang",
+                    "repo": "FaiRLLM",
+                    "stars": 44
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, paper",
+                  "description": ", code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 703634674,
+                    "language": "Python",
+                    "last_commit": "2024-02-04T13:57:57Z",
+                    "owner": "demoleiwang",
+                    "repo": "LLM4Vis",
+                    "stars": 29
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Large Language Models for Recommendation"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Language Models as Recommenddation Models & Prompt Learning"
         }
       ],
-      "title": "Dataset"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-02T01:12:02Z",
-            "owner": "westlake-repl",
-            "repo": "IDvs.MoRec",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-03-21T02:30:19Z",
-            "owner": "westlake-repl",
-            "repo": "Adapter4Rec",
-            "stars": 34
-          }
-        }
-      ],
-      "title": "Empirical Study"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [paper]",
-          "description": ", [code], [blog in Chinese]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-10T06:39:28Z",
-            "owner": "HKUDS",
-            "repo": "LLMRec",
-            "stars": 537
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-05-14T06:17:29Z",
-            "owner": "rainym00d",
-            "repo": "LLM4RS",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-04-25T21:30:05Z",
-            "owner": "Yueeeeeeee",
-            "repo": "LlamaRec",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[paper]",
-          "description": "[code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2023-06-15T13:10:33Z",
-            "owner": "jizhi-zhang",
-            "repo": "FaiRLLM",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, paper",
-          "description": ", code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-04T13:57:57Z",
-            "owner": "demoleiwang",
-            "repo": "LLM4Vis",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Large Language Models for Recommendation"
+      "title": "Paper List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:31:30.964Z",
+    "last_updated": "2026-08-19T12:47:10.458Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
+    "original_repository_id": 515906806,
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
     "enhanced_repository": "enhansome/enhansome-recommend-system-pretraining-papers",
     "enhanced_repository_description": null,
