@@ -17,7 +17,7 @@
                 "last_commit": "2024-06-10T06:39:28Z",
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537
+                "stars": 538
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2024-03-20T13:46:48Z",
                 "owner": "gimpong",
                 "repo": "MM23-MISSRec",
-                "stars": 64
+                "stars": 65
               }
             }
           ],
@@ -220,7 +220,7 @@
                     "last_commit": "2024-06-10T06:39:28Z",
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 537
+                    "stars": 538
                   }
                 },
                 {
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:33:21.647Z",
+    "last_updated": "2026-08-20T21:35:51.166Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_id": 515906806,
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",

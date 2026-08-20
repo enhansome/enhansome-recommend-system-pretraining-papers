@@ -19,7 +19,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Dataset
 
-* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 537 | 🐛 16 | 🌐 Python | 📅 2024-06-10
+* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10
 * A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 292 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
@@ -45,7 +45,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29
 - Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 102 | 🐛 2 | 🌐 Python | 📅 2023-03-27
-- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 64 | 🐛 1 | 🌐 Python | 📅 2024-03-20
+- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2024-03-20
 
 ## User Representation Pretraining
 
@@ -74,7 +74,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ### Large Language Models for Recommendation
 
-* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 537 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
 * Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.02182.pdf)[\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 176 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI\@CIKM 2023,[\[paper\]](https://arxiv.org/abs/2311.02089)
   [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
