@@ -39,7 +39,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 * A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [\[paper\]](https://arxiv.org/pdf/1808.05163.pdf)  [\[code\]](https://github.com/fajieyuan/WSDM2019-nextitnet) ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2024-03-28
 
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
-  , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,281 | 🐛 107 | 🌐 Python | 📅 2026-07-31
+  , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,281 | 🐛 107 | 🌐 Python | 📅 2026-08-23
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 734 | 🐛 16 | 🌐 Python | 📅 2020-02-07
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2020-11-22
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._

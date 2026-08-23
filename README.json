@@ -118,7 +118,7 @@
                 "archived": false,
                 "id": 358017583,
                 "language": "Python",
-                "last_commit": "2026-07-31T03:26:30Z",
+                "last_commit": "2026-08-23T02:54:09Z",
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
                 "stars": 1281
@@ -298,7 +298,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:29:06.098Z",
+    "last_updated": "2026-08-23T21:28:29.682Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_id": 515906806,
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
