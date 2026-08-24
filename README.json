@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 643705885,
+                "language": null,
+                "last_commit": "2026-01-17T03:14:41Z",
+                "owner": "CHIANGEL",
+                "repo": "Awesome-LLM-for-RecSys",
+                "stars": 1550
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Review"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Netflix: [link]",
               "description": null,
               "children": [],
@@ -111,6 +133,21 @@
           "children": [
             {
               "node_type": "item",
+              "title": "A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159771840,
+                "language": "Python",
+                "last_commit": "2024-03-28T02:13:10Z",
+                "owner": "fajieyuan",
+                "repo": "WSDM2019-nextitnet",
+                "stars": 113
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021 , [paper]",
               "description": "[code]",
               "children": [],
@@ -181,7 +218,7 @@
                 "last_commit": "2023-03-27T15:18:01Z",
                 "owner": "RUCAIBox",
                 "repo": "VQ-Rec",
-                "stars": 103
+                "stars": 104
               }
             },
             {
@@ -203,6 +240,50 @@
           "description": null,
           "node_type": "group",
           "title": "Sequential / Session-Based Recommendation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [paper]",
+              "description": ", [code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 262513671,
+                "language": "Python",
+                "last_commit": "2024-03-15T03:43:29Z",
+                "owner": "fajieyuan",
+                "repo": "SIGIR2020_peterrec",
+                "stars": 207
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "User Representation Pretraining"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [paper]",
+              "description": "[code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493910313,
+                "language": "Python",
+                "last_commit": "2023-08-29T02:03:18Z",
+                "owner": "archersama",
+                "repo": "IntTower",
+                "stars": 70
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Two Tower Pretraining"
         },
         {
           "children": [
@@ -298,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:28:29.682Z",
+    "last_updated": "2026-08-24T14:27:20.355Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_id": 515906806,
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",

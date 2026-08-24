@@ -12,10 +12,10 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,550 | 🐛 5 | 📅 2026-01-17
 * Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [\[paper\]](https://arxiv.org/abs/2009.09226)
 * Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2203.15876.pdf)
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [\[paper\]](https://arxiv.org/abs/2302.03735)
-* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,550 | 🐛 5 | 📅 2026-01-17
 
 ## Dataset
 
@@ -44,7 +44,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 225 | 🐛 11 | 🌐 Python | 📅 2023-11-29
-- Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 103 | 🐛 2 | 🌐 Python | 📅 2023-03-27
+- Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27
 - MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 65 | 🐛 1 | 🌐 Python | 📅 2024-03-20
 
 ## User Representation Pretraining
@@ -59,9 +59,9 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Two Tower Pretraining
 
+* IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [\[paper\]](https://arxiv.org/abs/2210.09890)[\[code\]](https://github.com/archersama/inttower) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2023-08-29
 * Self-supervised Learning for Large-scale Item Recommendations , CIKM 2021 , [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952)
 * TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback , arxiv 2022 , [\[paper\]](https://arxiv.org/abs/2206.06190)
-* IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [\[paper\]](https://arxiv.org/abs/2210.09890)[\[code\]](https://github.com/archersama/inttower) ⭐ 70 | 🐛 1 | 🌐 Python | 📅 2023-08-29
 
 ## Language Models as Recommenddation Models & Prompt Learning
 
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
