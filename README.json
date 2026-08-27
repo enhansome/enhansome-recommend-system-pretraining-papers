@@ -84,7 +84,7 @@
                 "last_commit": "2024-10-06T11:46:10Z",
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 112
+                "stars": 113
               }
             }
           ],
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-23T02:54:09Z",
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
-                "stars": 1282
+                "stars": 1281
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2023-11-29T09:37:26Z",
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
-                "stars": 225
+                "stars": 226
               }
             },
             {
@@ -379,7 +379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:36:15.961Z",
+    "last_updated": "2026-08-27T00:38:08.698Z",
     "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
     "original_repository_id": 515906806,
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
