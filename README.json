@@ -84,7 +84,7 @@
                 "last_commit": "2024-10-06T11:46:10Z",
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 113
+                "stars": 112
               }
             }
           ],
@@ -379,9 +379,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:38:08.698Z",
-    "original_repository": "archersama/awesome-recommend-system-pretraining-papers",
-    "original_repository_id": 515906806,
+    "last_updated": "2026-08-27T11:59:28.269Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 515906806,
+      "language": null,
+      "last_commit": "2026-03-19T07:11:10Z",
+      "owner": "archersama",
+      "repo": "awesome-recommend-system-pretraining-papers",
+      "stars": 353
+    },
     "original_repository_sha": "5da87fbbbffa98c0c236792a1aaa1bd80c00f70f",
     "enhanced_repository": "enhansome/enhansome-recommend-system-pretraining-papers",
     "enhanced_repository_description": null,

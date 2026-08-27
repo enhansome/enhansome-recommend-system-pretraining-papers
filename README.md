@@ -22,7 +22,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 * Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10
 * A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 292 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
-* Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
+* Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
 * Yelp[\[link\]](https://www.yelp.com/dataset)
 * Petdata[\[link\]](https://drive.google.com/file/d/1OcvbBJN0jlPTEjE0lvcDfXRkzOjepMXH/view)
 * M5Product: Self-harmonized Contrastive Learning for E-commercial Multi-modal Pretraining, CVPR 2022 [\[paper\]](https://arxiv.org/pdf/2109.04275.pdf)
