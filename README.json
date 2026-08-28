@@ -18,7 +18,8 @@
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
                 "stars": 1550
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "HKUDS",
                 "repo": "LLMRec",
                 "stars": 538
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -54,8 +56,9 @@
                 "last_commit": "2026-03-19T13:25:17Z",
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 292
-              }
+                "stars": 294
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "westlake-repl",
                 "repo": "NineRec",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "westlake-repl",
                 "repo": "IDvs.MoRec",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "westlake-repl",
                 "repo": "Adapter4Rec",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -144,7 +151,8 @@
                 "owner": "fajieyuan",
                 "repo": "WSDM2019-nextitnet",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
                 "stars": 1281
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "FeiSun",
                 "repo": "BERT4Rec",
                 "stars": 734
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "RUCAIBox",
                 "repo": "CIKM2020-S3Rec",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -219,7 +231,8 @@
                 "owner": "RUCAIBox",
                 "repo": "VQ-Rec",
                 "stars": 104
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             },
             {
               "node_type": "item",
@@ -234,7 +247,8 @@
                 "owner": "gimpong",
                 "repo": "MM23-MISSRec",
                 "stars": 65
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -256,7 +270,8 @@
                 "owner": "fajieyuan",
                 "repo": "SIGIR2020_peterrec",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -278,7 +293,8 @@
                 "owner": "archersama",
                 "repo": "IntTower",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T05:13:29.287Z"
             }
           ],
           "description": null,
@@ -302,7 +318,8 @@
                     "owner": "HKUDS",
                     "repo": "LLMRec",
                     "stars": 538
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:13:29.287Z"
                 },
                 {
                   "node_type": "item",
@@ -317,7 +334,8 @@
                     "owner": "rainym00d",
                     "repo": "LLM4RS",
                     "stars": 176
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:13:29.287Z"
                 },
                 {
                   "node_type": "item",
@@ -332,7 +350,8 @@
                     "owner": "Yueeeeeeee",
                     "repo": "LlamaRec",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:13:29.287Z"
                 },
                 {
                   "node_type": "item",
@@ -347,7 +366,8 @@
                     "owner": "jizhi-zhang",
                     "repo": "FaiRLLM",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:13:29.287Z"
                 },
                 {
                   "node_type": "item",
@@ -362,7 +382,8 @@
                     "owner": "demoleiwang",
                     "repo": "LLM4Vis",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T05:13:29.287Z"
                 }
               ],
               "description": null,
@@ -379,7 +400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:28.269Z",
+    "last_updated": "2026-08-28T05:13:29.287Z",
     "original_repository_info": {
       "archived": false,
       "id": 515906806,
