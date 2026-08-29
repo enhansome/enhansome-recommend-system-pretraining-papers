@@ -40,7 +40,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
   , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,281 | 🐛 107 | 🌐 Python | 📅 2026-08-23
-- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 734 | 🐛 16 | 🌐 Python | 📅 2020-02-07
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 734 | 🐛 17 | 🌐 Python | 📅 2020-02-07
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29
@@ -49,7 +49,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## User Representation Pretraining
 
-* Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [\[paper\]](https://arxiv.org/pdf/2001.04253.pdf), [\[code\]](https://github.com/fajieyuan/sigir2020_peterrec) ⭐ 207 | 🐛 11 | 🌐 Python | 📅 2024-03-15
+* Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation, SIGIR 2020 , [\[paper\]](https://arxiv.org/pdf/2001.04253.pdf), [\[code\]](https://github.com/fajieyuan/sigir2020_peterrec) ⭐ 208 | 🐛 11 | 🌐 Python | 📅 2024-03-15
 * UPRec: User-Aware Pre-training for Recommender Systems ，submitted TKDE in 2021 , [\[paper\]](https://arxiv.org/abs/2102.10989)
 * U-BERT: Pre-training user representations for improved recommendation, AAAI 2021, [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/16557)
 * UserBERT: Self-supervised User Representation Learning ,  arxiv 2021 , [\[paper\]](https://arxiv.org/abs/2109.01274)
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
