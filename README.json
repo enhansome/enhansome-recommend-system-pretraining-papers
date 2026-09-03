@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1551,
+                "stars": 1552,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -404,7 +404,7 @@
                 "open_issues": 11,
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
-                "stars": 226,
+                "stars": 227,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:13:29.287Z"
@@ -446,7 +446,7 @@
                 "open_issues": 1,
                 "owner": "gimpong",
                 "repo": "MM23-MISSRec",
-                "stars": 65,
+                "stars": 66,
                 "topics": [
                   "acmmm",
                   "acmmm2023",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:14:06.958Z",
+    "last_updated": "2026-09-03T23:12:12.812Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
