@@ -20,7 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Dataset
 
 * Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 538 | 🐛 16 | 🌐 Python | 📅 2024-06-10
-* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
+* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 296 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
 * Yelp[\[link\]](https://www.yelp.com/dataset)
@@ -40,7 +40,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
   , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,281 | 🐛 107 | 🌐 Python | 📅 2026-08-23
-- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 734 | 🐛 17 | 🌐 Python | 📅 2020-02-07
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 735 | 🐛 17 | 🌐 Python | 📅 2020-02-07
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 267 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 227 | 🐛 11 | 🌐 Python | 📅 2023-11-29
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
