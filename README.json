@@ -379,7 +379,7 @@
                 "open_issues": 0,
                 "owner": "RUCAIBox",
                 "repo": "CIKM2020-S3Rec",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "mutual-information",
                   "self-supervised-learning",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T23:25:14.949Z",
+    "last_updated": "2026-09-08T23:17:57.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
