@@ -125,7 +125,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 189,
+                "stars": 190,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T22:56:54.193Z",
+    "last_updated": "2026-09-13T23:04:26.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
