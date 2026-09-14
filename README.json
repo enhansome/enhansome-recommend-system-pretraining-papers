@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1554,
+                "stars": 1555,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:04:26.289Z",
+    "last_updated": "2026-09-14T23:49:18.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
