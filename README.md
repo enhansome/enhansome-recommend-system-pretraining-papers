@@ -12,7 +12,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 
-* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,556 | 🐛 5 | 📅 2026-01-17
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,557 | 🐛 5 | 📅 2026-01-17
 * Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [\[paper\]](https://arxiv.org/abs/2009.09226)
 * Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2203.15876.pdf)
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [\[paper\]](https://arxiv.org/abs/2302.03735)
@@ -20,7 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Dataset
 
 * Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10
-* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 298 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
+* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 299 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
 * Yelp[\[link\]](https://www.yelp.com/dataset)
@@ -45,7 +45,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 227 | 🐛 11 | 🌐 Python | 📅 2023-11-29
 - Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27
-- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2024-03-20
+- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 68 | 🐛 1 | 🌐 Python | 📅 2024-03-20
 
 ## User Representation Pretraining
 
@@ -107,7 +107,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Related hub
 
-<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,556 | 🐛 5 | 📅 2026-01-17
+<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,557 | 🐛 5 | 📅 2026-01-17
 
 # Copyright
 
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
