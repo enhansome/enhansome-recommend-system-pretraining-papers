@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1557,
+                "stars": 1558,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 299,
+                "stars": 300,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:59:38.944Z",
+    "last_updated": "2026-09-22T23:33:55.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
