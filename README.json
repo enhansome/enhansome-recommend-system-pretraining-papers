@@ -18,7 +18,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-01-17T03:14:41Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
                 "stars": 1557,
@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 300,
+                "stars": 301,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T23:50:21.231Z",
+    "last_updated": "2026-09-25T23:55:25.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",

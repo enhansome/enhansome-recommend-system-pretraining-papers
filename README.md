@@ -12,7 +12,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 
-* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,557 | 🐛 5 | 📅 2026-01-17
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,557 | 🐛 4 | 📅 2026-01-17
 * Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [\[paper\]](https://arxiv.org/abs/2009.09226)
 * Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2203.15876.pdf)
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [\[paper\]](https://arxiv.org/abs/2302.03735)
@@ -20,7 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Dataset
 
 * Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10
-* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 300 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
+* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 301 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 189 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
 * Yelp[\[link\]](https://www.yelp.com/dataset)
@@ -107,7 +107,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Related hub
 
-<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,557 | 🐛 5 | 📅 2026-01-17
+<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,557 | 🐛 4 | 📅 2026-01-17
 
 # Copyright
 
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
