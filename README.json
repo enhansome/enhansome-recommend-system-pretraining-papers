@@ -621,7 +621,7 @@
                     "open_issues": 4,
                     "owner": "Yueeeeeeee",
                     "repo": "LlamaRec",
-                    "stars": 173,
+                    "stars": 174,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T05:13:29.287Z"
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:55:25.044Z",
+    "last_updated": "2026-09-26T23:29:01.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",

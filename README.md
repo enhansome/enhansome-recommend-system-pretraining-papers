@@ -77,7 +77,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 * LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
 * Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.02182.pdf)[\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 176 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI\@CIKM 2023,[\[paper\]](https://arxiv.org/abs/2311.02089)
-  [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 173 | 🐛 4 | 🌐 Python | 📅 2024-04-25
+  [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[\[paper\]](https://arxiv.org/pdf/2305.07609.pdf)
   [\[code\]](https://github.com/jizhi-zhang/FaiRLLM) ⭐ 44 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-15
 * LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, [paper](https://arxiv.org/abs/2310.07652), [code](https://github.com/demoleiwang/LLM4Vis) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-02-04
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
