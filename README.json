@@ -58,7 +58,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 302,
+                "stars": 304,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -125,7 +125,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 189,
+                "stars": 188,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "FeiSun",
                 "repo": "BERT4Rec",
-                "stars": 736,
+                "stars": 735,
                 "topics": [
                   "recommendation",
                   "sequential-recommendation"
@@ -561,7 +561,7 @@
                     "open_issues": 16,
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 536,
+                    "stars": 534,
                     "topics": [
                       "colloborative-filtering",
                       "content-based-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:45:07.124Z",
+    "last_updated": "2026-09-29T00:56:19.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
