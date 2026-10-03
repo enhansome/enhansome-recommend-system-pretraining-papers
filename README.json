@@ -88,7 +88,7 @@
                 "open_issues": 3,
                 "owner": "westlake-repl",
                 "repo": "MicroLens",
-                "stars": 305,
+                "stars": 306,
                 "topics": [
                   "audio-recommendation",
                   "foundation-models",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:02.966Z",
+    "last_updated": "2026-10-03T23:43:14.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
