@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [paper]",
-              "description": "[code]",
+              "description": "CHIANGEL/Awesome-LLM-for-RecSys",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,7 +45,7 @@
             {
               "node_type": "item",
               "title": "Netflix: [link]",
-              "description": null,
+              "description": "HKUDS/LLMRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -191,7 +191,7 @@
             {
               "node_type": "item",
               "title": "Where to Go Next for Recommender Systems? ID-vs. Modality-based recommender models revisited, SIGIR 2023, [paper]",
-              "description": "[code]",
+              "description": "westlake-repl/IDvs.MoRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -227,7 +227,7 @@
             {
               "node_type": "item",
               "title": "Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights, WSDM 2024, [paper]",
-              "description": "[code]",
+              "description": "westlake-repl/Adapter4Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -272,7 +272,7 @@
             {
               "node_type": "item",
               "title": "A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [paper]",
-              "description": "[code]",
+              "description": "fajieyuan/WSDM2019-nextitnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021 , [paper]",
-              "description": "[code]",
+              "description": "NVIDIA-Merlin/Transformers4Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -342,7 +342,7 @@
             {
               "node_type": "item",
               "title": "BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 , [paper]",
-              "description": "[code]",
+              "description": "FeiSun/BERT4Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -366,7 +366,7 @@
             {
               "node_type": "item",
               "title": "S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization , CIKM-2020 , [paper]",
-              "description": "[code]",
+              "description": "RUCAIBox/CIKM2020-S3Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -391,7 +391,7 @@
             {
               "node_type": "item",
               "title": "Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [paper]",
-              "description": "[code]",
+              "description": "RUCAIBox/UniSRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -412,7 +412,7 @@
             {
               "node_type": "item",
               "title": "Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [paper]",
-              "description": "[code]",
+              "description": "RUCAIBox/VQ-Rec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -433,7 +433,7 @@
             {
               "node_type": "item",
               "title": "MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[paper]",
-              "description": "[code]",
+              "description": "gimpong/MM23-MISSRec",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -518,7 +518,7 @@
             {
               "node_type": "item",
               "title": "IntTower: the Next Generation of Two-Tower Model for Pre-Ranking System, CIKM 2022 , [paper]",
-              "description": "[code]",
+              "description": "archersama/IntTower",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
                 {
                   "node_type": "item",
                   "title": "Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [paper]",
-                  "description": "[code]",
+                  "description": "rainym00d/LLM4RS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -608,7 +608,7 @@
                 {
                   "node_type": "item",
                   "title": "LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI@CIKM 2023,[paper]",
-                  "description": "[code]",
+                  "description": "Yueeeeeeee/LlamaRec",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -629,7 +629,7 @@
                 {
                   "node_type": "item",
                   "title": "Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[paper]",
-                  "description": "[code]",
+                  "description": "jizhi-zhang/FaiRLLM",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:22:20.800Z",
+    "last_updated": "2026-10-03T05:04:02.966Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
