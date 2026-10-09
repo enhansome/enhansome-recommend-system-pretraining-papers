@@ -12,14 +12,14 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 
-* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,558 | 🐛 5 | 📅 2026-01-17
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,559 | 🐛 4 | 📅 2026-10-08
 * Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [\[paper\]](https://arxiv.org/abs/2009.09226)
 * Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2203.15876.pdf)
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [\[paper\]](https://arxiv.org/abs/2302.03735)
 
 ## Dataset
 
-* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 533 | 🐛 16 | 🌐 Python | 📅 2024-06-10
+* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 534 | 🐛 16 | 🌐 Python | 📅 2024-06-10
 * A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 307 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 188 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 112 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
@@ -74,10 +74,10 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ### Large Language Models for Recommendation
 
-* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 533 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 534 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
 * Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.02182.pdf)[\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 177 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI\@CIKM 2023,[\[paper\]](https://arxiv.org/abs/2311.02089)
-  [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2024-04-25
+  [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-04-25
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[\[paper\]](https://arxiv.org/pdf/2305.07609.pdf)
   [\[code\]](https://github.com/jizhi-zhang/FaiRLLM) ⭐ 44 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-15
 * LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, [paper](https://arxiv.org/abs/2310.07652), [code](https://github.com/demoleiwang/LLM4Vis) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-02-04
@@ -107,7 +107,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Related hub
 
-<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,558 | 🐛 5 | 📅 2026-01-17
+<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,559 | 🐛 4 | 📅 2026-10-08
 
 # Copyright
 
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

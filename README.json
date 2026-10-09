@@ -17,11 +17,11 @@
                 "id": 643705885,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-01-17T03:14:41Z",
-                "open_issues": 5,
+                "last_commit": "2026-10-08T03:30:57Z",
+                "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1558,
+                "stars": 1559,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -58,7 +58,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 533,
+                "stars": 534,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -561,7 +561,7 @@
                     "open_issues": 16,
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 533,
+                    "stars": 534,
                     "topics": [
                       "colloborative-filtering",
                       "content-based-recommendation",
@@ -618,7 +618,7 @@
                     "language": "Python",
                     "license": null,
                     "last_commit": "2024-04-25T21:30:05Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "Yueeeeeeee",
                     "repo": "LlamaRec",
                     "stars": 174,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T00:54:55.892Z",
+    "last_updated": "2026-10-09T01:09:16.593Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
