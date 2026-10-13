@@ -159,7 +159,7 @@
                 "open_issues": 5,
                 "owner": "westlake-repl",
                 "repo": "NineRec",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "cross-domain-recommendation",
                   "cross-platform-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:25:17.271Z",
+    "last_updated": "2026-10-13T02:31:07.486Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
