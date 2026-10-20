@@ -17,7 +17,7 @@
                 "id": 643705885,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-08T03:30:57Z",
+                "last_commit": "2026-10-19T16:34:18Z",
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:58:31.944Z",
+    "last_updated": "2026-10-20T00:12:17.090Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
