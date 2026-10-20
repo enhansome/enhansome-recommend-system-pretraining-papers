@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1560,
+                "stars": 1561,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -58,7 +58,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 534,
+                "stars": 535,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -404,7 +404,7 @@
                 "open_issues": 11,
                 "owner": "RUCAIBox",
                 "repo": "UniSRec",
-                "stars": 227,
+                "stars": 226,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:13:29.287Z"
@@ -561,7 +561,7 @@
                     "open_issues": 16,
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 534,
+                    "stars": 535,
                     "topics": [
                       "colloborative-filtering",
                       "content-based-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:12:17.090Z",
+    "last_updated": "2026-10-20T23:46:17.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
