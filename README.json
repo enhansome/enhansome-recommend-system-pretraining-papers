@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -320,7 +320,7 @@
                 "open_issues": 107,
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "bert",
                   "gtp",
@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "FeiSun",
                 "repo": "BERT4Rec",
-                "stars": 736,
+                "stars": 738,
                 "topics": [
                   "recommendation",
                   "sequential-recommendation"
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T23:46:17.204Z",
+    "last_updated": "2026-10-21T23:58:11.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
