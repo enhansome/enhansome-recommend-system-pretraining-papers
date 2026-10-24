@@ -20,7 +20,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 ## Dataset
 
 * Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 535 | 🐛 16 | 🌐 Python | 📅 2024-06-10
-* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 310 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
+* A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 311 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 188 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2024-10-06, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
 * Yelp[\[link\]](https://www.yelp.com/dataset)
@@ -79,7 +79,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI\@CIKM 2023,[\[paper\]](https://arxiv.org/abs/2311.02089)
   [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-04-25
 * Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation, arxiv 2023,[\[paper\]](https://arxiv.org/pdf/2305.07609.pdf)
-  [\[code\]](https://github.com/jizhi-zhang/FaiRLLM) ⭐ 44 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-15
+  [\[code\]](https://github.com/jizhi-zhang/FaiRLLM) ⭐ 43 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2023-06-15
 * LLM4Vis: Explainable Visualization Recommendation using ChatGPT,EMNLP Industry 2023, [paper](https://arxiv.org/abs/2310.07652), [code](https://github.com/demoleiwang/LLM4Vis) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2024-02-04
 * Is ChatGPT a Good Recommender A Preliminary Study, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.10149.pdf)
 * Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2304.09542.pdf)
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
