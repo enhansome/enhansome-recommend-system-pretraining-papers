@@ -12,7 +12,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Review
 
-* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,564 | 🐛 5 | 📅 2026-10-22
+* How Can Recommender Systems Benefit from Large Language Models: A Survey, arxiv 2023, [\[paper\]](http://arxiv.org/abs/2306.05817v1) [\[code\]](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) ⭐ 1,565 | 🐛 4 | 📅 2026-10-26
 * Knowledge Transfer via Pre-training for Recommendation: A Review and Prospect, arXiv, 2020, [\[paper\]](https://arxiv.org/abs/2009.09226)
 * Self-Supervised Learning for Recommender Systems: A Survey ,arxiv 2022, [\[paper\]](https://arxiv.org/pdf/2203.15876.pdf)
 * Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems, arxiv 2022, [\[paper\]](https://arxiv.org/abs/2302.03735)
@@ -40,7 +40,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
   , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,284 | 🐛 107 | 🌐 Python | 📅 2026-08-23
-- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 738 | 🐛 17 | 🌐 Python | 📅 2020-02-07
+- BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 739 | 🐛 17 | 🌐 Python | 📅 2020-02-07
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29
@@ -107,7 +107,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 # Related hub
 
-<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,564 | 🐛 5 | 📅 2026-10-22
+<https://github.com/CHIANGEL/Awesome-LLM-for-RecSys> ⭐ 1,565 | 🐛 4 | 📅 2026-10-26
 
 # Copyright
 
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
