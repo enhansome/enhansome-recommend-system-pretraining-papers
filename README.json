@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1565,
+                "stars": 1566,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -317,7 +317,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-23T02:54:09Z",
-                "open_issues": 107,
+                "open_issues": 106,
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
                 "stars": 1284,
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:20:45.591Z",
+    "last_updated": "2026-10-28T00:24:27.200Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
