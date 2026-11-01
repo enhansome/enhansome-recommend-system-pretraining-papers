@@ -44,8 +44,8 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2020-11-22
 - Towards Universal Sequence Representation Learning for Recommender Systems , KDD 2022 , [\[paper\]](https://arxiv.org/pdf/2206.05941.pdf)[\[code\]](https://github.com/RUCAIBox/UniSRec) ⭐ 226 | 🐛 11 | 🌐 Python | 📅 2023-11-29
-- Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2023-03-27
-- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 67 | 🐛 1 | 🌐 Python | 📅 2024-03-20
+- Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders, WWW 2023, [\[paper\]](https://arxiv.org/abs/2210.12316) [\[code\]](https://github.com/RUCAIBox/VQ-Rec) ⭐ 104 | 🐛 2 | 🌐 Python | 📅 2023-03-27
+- MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation, ACM MM 2023,[\[paper\]](https://arxiv.org/abs/2308.11175) [\[code\]](https://github.com/gimpong/MM23-MISSRec) ⭐ 66 | 🐛 1 | 🌐 Python | 📅 2024-03-20
 
 ## User Representation Pretraining
 

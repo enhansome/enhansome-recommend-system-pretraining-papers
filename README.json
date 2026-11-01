@@ -425,7 +425,7 @@
                 "open_issues": 2,
                 "owner": "RUCAIBox",
                 "repo": "VQ-Rec",
-                "stars": 105,
+                "stars": 104,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:13:29.287Z"
@@ -446,7 +446,7 @@
                 "open_issues": 1,
                 "owner": "gimpong",
                 "repo": "MM23-MISSRec",
-                "stars": 67,
+                "stars": 66,
                 "topics": [
                   "acmmm",
                   "acmmm2023",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:38:14.923Z",
+    "last_updated": "2026-10-31T23:59:58.814Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
