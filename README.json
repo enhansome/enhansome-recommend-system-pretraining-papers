@@ -355,7 +355,7 @@
                 "open_issues": 17,
                 "owner": "FeiSun",
                 "repo": "BERT4Rec",
-                "stars": 739,
+                "stars": 740,
                 "topics": [
                   "recommendation",
                   "sequential-recommendation"
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:51:17.532Z",
+    "last_updated": "2026-11-04T01:12:05.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
