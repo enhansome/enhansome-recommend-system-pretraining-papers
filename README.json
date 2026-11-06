@@ -21,7 +21,7 @@
                 "open_issues": 4,
                 "owner": "CHIANGEL",
                 "repo": "Awesome-LLM-for-RecSys",
-                "stars": 1567,
+                "stars": 1568,
                 "topics": [
                   "awesome",
                   "large-language-models",
@@ -125,7 +125,7 @@
                 "open_issues": 1,
                 "owner": "westlake-repl",
                 "repo": "PixelRec",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "foundation-model",
                   "image-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:25:15.856Z",
+    "last_updated": "2026-11-06T01:28:02.461Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
