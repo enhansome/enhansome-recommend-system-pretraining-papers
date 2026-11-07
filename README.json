@@ -58,7 +58,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 536,
+                "stars": 537,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -320,7 +320,7 @@
                 "open_issues": 110,
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
-                "stars": 1284,
+                "stars": 1285,
                 "topics": [
                   "bert",
                   "gtp",
@@ -561,7 +561,7 @@
                     "open_issues": 16,
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 536,
+                    "stars": 537,
                     "topics": [
                       "colloborative-filtering",
                       "content-based-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:28:02.461Z",
+    "last_updated": "2026-11-07T00:49:50.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",

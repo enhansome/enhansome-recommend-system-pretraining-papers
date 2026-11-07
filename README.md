@@ -19,7 +19,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ## Dataset
 
-* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10
+* Netflix: [\[link\]](https://github.com/HKUDS/LLMRec) ⭐ 537 | 🐛 16 | 🌐 Python | 📅 2024-06-10
 * A Content-Driven Micro-Video Recommendation Dataset at Scale [\[link\]](https://github.com/westlake-repl/MicroLens) ⭐ 313 | 🐛 3 | 🌐 Python | 📅 2026-03-19, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.15379)
 * PixelRec:  A Image Dataset for Benchmarking Recommender Systems with Raw Pixels [\[link\]](https://github.com/westlake-repl/PixelRec) ⭐ 187 | 🐛 1 | 🌐 Python | 📅 2025-03-19,arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.06789)
 * Ninerec: A benchmark dataset suite for evaluating transferable recommendation [\[link\]](https://github.com/westlake-repl/NineRec) ⭐ 113 | 🐛 5 | 🌐 Python | 📅 2026-10-29, arxiv 2023,[\[paper\]](https://arxiv.org/abs/2309.07705)
@@ -39,7 +39,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 * A Simple Convolutional Generative Network for Next Item Recommendation, WSDM 2018/08, [\[paper\]](https://arxiv.org/pdf/1808.05163.pdf)  [\[code\]](https://github.com/fajieyuan/WSDM2019-nextitnet) ⭐ 113 | 🐛 4 | 🌐 Python | 📅 2024-03-28
 
 - Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation, Recsys 2021
-  , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,284 | 🐛 110 | 🌐 Python | 📅 2026-08-23
+  , [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3460231.3474255?casa_token=b4-oEoLXZycAAAAA:khQBoMBHAS5TXADNUar92RYFH4bq68KSjk3VvD5FDJzazv3jXXfcj_LHdnREjvfUgYj-4dipepKs)[\[code\]](https://github.com/NVIDIA-Merlin/Transformers4Rec) ⭐ 1,285 | 🐛 110 | 🌐 Python | 📅 2026-08-23
 - BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer, CIKM 2019 ,  [\[paper\]](https://arxiv.org/abs/1904.06690)[\[code\]](https://github.com/FeiSun/BERT4Rec) ⭐ 740 | 🐛 17 | 🌐 Python | 📅 2020-02-07
 - S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization
   , CIKM-2020 , [\[paper\]](https://arxiv.org/abs/2008.07873)[\[code\]](https://github.com/RUCAIBox/CIKM2020-S3Rec) ⭐ 268 | 🐛 0 | 🌐 Python | 📅 2020-11-22
@@ -74,7 +74,7 @@ This is a paper list for pretrained recommend System (recommendation) models. It
 
 ### Large Language Models for Recommendation
 
-* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 536 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
+* LLMRec: Large Language Models with Graph Augmentation for Recommendation , WSDM 2024 , [\[paper\]](https://arxiv.org/pdf/2311.00423.pdf), [\[code\]](https://github.com/HKUDS/LLMRec) ⭐ 537 | 🐛 16 | 🌐 Python | 📅 2024-06-10, [\[blog in Chinese\]](https://mp.weixin.qq.com/s/aU-uzLWH6xfIuoon-Zq8Cg)
 * Uncovering ChatGPT’s Capabilities in Recommender Systems, arxiv 2023, [\[paper\]](https://arxiv.org/pdf/2305.02182.pdf)[\[code\]](https://github.com/rainym00d/LLM4RS) ⭐ 177 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2024-05-14
 * LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking, PGAI\@CIKM 2023,[\[paper\]](https://arxiv.org/abs/2311.02089)
   [\[code\]](https://github.com/Yueeeeeeee/LlamaRec) ⭐ 174 | 🐛 3 | 🌐 Python | 📅 2024-04-25
@@ -126,4 +126,4 @@ By Xiangyang Li (<xiangyangli@pku.edu.cn>) from Peking University.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
