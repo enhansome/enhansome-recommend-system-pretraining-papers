@@ -320,7 +320,7 @@
                 "open_issues": 110,
                 "owner": "NVIDIA-Merlin",
                 "repo": "Transformers4Rec",
-                "stars": 1285,
+                "stars": 1286,
                 "topics": [
                   "bert",
                   "gtp",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:49:50.481Z",
+    "last_updated": "2026-11-08T00:23:41.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
