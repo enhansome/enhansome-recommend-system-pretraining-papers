@@ -58,7 +58,7 @@
                 "open_issues": 16,
                 "owner": "HKUDS",
                 "repo": "LLMRec",
-                "stars": 537,
+                "stars": 538,
                 "topics": [
                   "colloborative-filtering",
                   "content-based-recommendation",
@@ -561,7 +561,7 @@
                     "open_issues": 16,
                     "owner": "HKUDS",
                     "repo": "LLMRec",
-                    "stars": 537,
+                    "stars": 538,
                     "topics": [
                       "colloborative-filtering",
                       "content-based-recommendation",
@@ -683,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:12:22.783Z",
+    "last_updated": "2026-11-21T02:05:07.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "Paper List for Recommend-system  PreTrained Models",
